@@ -18,3 +18,6 @@ class StartTimer{
 		}
 	}
 }
+class Demo{
+	//Class to be reverted later!!
+}
