@@ -1,7 +1,4 @@
 class StartTimer{
-
-
-//	New random comment!
 	public static void main(String args[]){
 		int timer = 0;
 		while(true){
